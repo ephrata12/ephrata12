@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile!
 
-🏫 Bachelor's degree from Amherst College with a major in Statistics along with a concentration in Mathematics.
+🏫 Bachelor's degree from Amherst College with a major in Statistics along with a concentration in Mathematics
 
 🌱 Ex-Data Science and Machine Learning Research Intern at Big Data Summer Institute at University of Michigan Ann Arbor, MI for Summer 2024 on Predictive Modeling of In-Hospital Mortality in ICU-Admitted Heart Failure Patients
 
